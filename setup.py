@@ -1,0 +1,21 @@
+from setuptools import setup
+ 
+setup(
+    name = 'JSONXMLConverter',
+    packages = ['jsonxmlconverter'],
+    version = '0.0.1',
+    description = 'Converts JSON file into XML',
+    author='Sreejith Sreekantan',
+    author_email='krssreejith@gmail.com',
+    url='https://github.com/sreejithsreekantan/jsonxmlconverter',
+    classifiers=[
+        'Programming Language :: Python',
+        'Programming Language :: Python :: 2',
+        'License :: OSI Approved :: GNU General Public License (GPL)',
+        'Operating System :: OS Independent',
+        'Development Status :: 1 - Planning',
+        'Environment :: Console',
+        'Intended Audience :: Developers',
+        'Topic :: Programming :: GIS'
+    ]
+)
