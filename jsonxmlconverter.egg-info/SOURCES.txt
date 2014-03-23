@@ -1,0 +1,12 @@
+CHANGES.txt
+LICENSE.txt
+MANIFEST.in
+README.txt
+setup.py
+jsonxmlconverter/__init__.py
+jsonxmlconverter/jsonxmlconverter.py
+jsonxmlconverter.egg-info/PKG-INFO
+jsonxmlconverter.egg-info/SOURCES.txt
+jsonxmlconverter.egg-info/dependency_links.txt
+jsonxmlconverter.egg-info/requires.txt
+jsonxmlconverter.egg-info/top_level.txt
